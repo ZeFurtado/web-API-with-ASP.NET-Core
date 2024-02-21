@@ -9,7 +9,7 @@ using WebApi.Models;
 
 namespace web_API_with_ASP.NET_Core.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/TodoItems")]
     [ApiController]
     public class TodoItemsController : ControllerBase
     {
