@@ -1,4 +1,4 @@
-namespace TodoApi.Models
+namespace WebApi.Models
 {
     public class TodoItemDTO
     {
